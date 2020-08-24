@@ -1,0 +1,10 @@
+{
+    "Driver": "mysql",
+    "ConnectString": "root:123456@(127.0.0.1:3306)/task_hall?charset=utf8&parseTime=True&loc=Local",
+    "Port": "3002",
+    "IsLog":true,
+    "RedisAdree": "127.0.0.1",
+    "RedisPort": "6379",
+    "RedisPwd": "",
+    "Redislevel": 0
+}
